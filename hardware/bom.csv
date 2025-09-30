@@ -1,0 +1,11 @@
+Item;Qty;Notes;Link/PN
+Arduino Uno (or Nano);1;Main controller;
+L298N Motor Driver;1;2 DC motors;
+DC Gear Motor + Wheel;2;Matched pair;
+IR Line Sensor;2;Digital output modules;
+HC-SR04 Ultrasonic;1;Front obstacle;
+Micro Servo (SG90);1;Sensor lever;
+MAX30100 Module;1;I2C pulse-ox;
+HC-05 Bluetooth;1;Classic BT SPP;
+LiPo/AA Pack + Switch;1;Sized for motors;
+Jumper Wires;as needed;;
